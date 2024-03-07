@@ -1,0 +1,1289 @@
+,nsites,elements,formula_pretty,volume,density,symmetry,symmetry_class,Oxidation,e0,CN_species1,CN_species2,CN_species3,CN1,CN2,CN3,CN_all
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,22,"[Element O, Element P, Element Ti, Element Zn]",TiZnP2O7,260.0792293777828,3.6676431384808725,Triclinic,6,2.0,9663.918,O,-,-,6,0,0,6
+1,14,"[Element Fe, Element O, Element Zn]",ZnFe5O8,158.1715266731857,4.9618237526755555,Cubic,1,2.0,9668.616,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Ta, Element Zn]",TaZn2NiO6,211.56928099211348,7.322120332758707,Monoclinic,3,2.0,9668.822,O,-,-,4,0,0,4
+1,46,"[Element Na, Element O, Element Zn]",Na10Zn4O9,627.5010834201806,3.3635624514525304,Monoclinic,3,2.0,9670.416,O,-,-,4,0,0,4
+1,30,"[Element O, Element P, Element Sb, Element Zn]",ZnSb2(PO5)2,399.8851033606619,4.4089225774043985,Orthorhombic,4,2.0,9666.228,O,-,-,4,0,0,4
+1,56,"[Element O, Element V, Element Zn]",V2ZnO4,635.5457315871521,4.834464508312943,Monoclinic,3,2.0,9670.196,O,-,-,6,0,0,6
+1,14,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,226.17109918200796,5.476023953494818,Monoclinic,3,2.0,9666.155,O,-,-,4,0,0,4
+1,24,"[Element Cu, Element O, Element Zn]",Zn2Cu9O13,233.7297053276144,6.470264815732412,Monoclinic,3,2.0,9668.169,O,-,-,6,0,0,6
+1,50,"[Element H, Element Na, Element O, Element S, Element Zn]",Na2ZnH8(SO6)2,514.4226688165746,2.424685974729984,Monoclinic,3,2.0,9668.022,O,-,-,6,0,0,6
+1,80,"[Element Co, Element O, Element Si, Element Zn]",ZnCo(SiO3)2,890.9681636538712,4.122750923436713,Orthorhombic,4,2.0,9669.029,O,-,-,6,0,0,6
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,292.2892974770118,5.255962687120834,Orthorhombic,4,2.0,9669.143,O,-,-,4,0,0,4
+1,10,"[Element K, Element Li, Element O, Element Zn]",KLiZnO2,133.94123806561947,3.556776287346053,Monoclinic,3,2.0,9666.225,O,-,-,4,0,0,4
+1,20,"[Element Ni, Element O, Element Zn]",ZnNi9O10,190.822481186719,6.55821375061988,Triclinic,6,2.0,9669.458,O,-,-,6,0,0,6
+1,22,"[Element Co, Element O, Element P, Element Zn]",ZnCoP2O7,250.1329306774045,3.960412153847646,Triclinic,6,2.0,9663.679,O,-,-,4,0,0,4
+1,14,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,158.35372198943213,4.721767838383659,Monoclinic,3,2.0,9665.653,O,Zn,-,5,1,0,6
+1,62,"[Element H, Element K, Element O, Element S, Element Zn]",K2ZnH12(SO7)2,812.0632957498126,1.8150914066104415,Monoclinic,3,2.0,9663.691,O,-,-,4,0,0,4
+1,56,"[Element Ag, Element O, Element Zn]",Zn(AgO2)2,729.782136555445,6.282679689451971,Monoclinic,3,2.0,9668.136,O,-,-,6,0,0,6
+1,84,"[Element As, Element Na, Element O, Element Zn]",NaZnAsO4,1224.1876339602093,3.700122615307156,Monoclinic,3,2.0,9664.028,O,-,-,4,0,0,4
+1,56,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,719.6083037606711,5.931103791223614,Monoclinic,3,2.0,9669.633,O,-,-,6,0,0,6
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,305.1373674296727,5.248132276733176,Monoclinic,3,2.0,9669.94,O,-,-,6,0,0,6
+1,72,"[Element Al, Element Ca, Element O, Element Zn]",Ca3Al4ZnO10,949.9174732200585,3.1714726646038662,Orthorhombic,4,2.0,9669.935,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,202.14439431437552,6.026680999752517,Orthorhombic,4,2.0,9665.524,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element W, Element Zn]",Zn2CrWO6,213.71096760808607,7.189609646374105,Monoclinic,3,2.0,9667.954,O,-,-,4,0,0,4
+1,14,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,142.1688189350274,5.765118942172873,Tetragonal,5,2.0,9668.416,O,-,-,4,0,0,4
+1,16,"[Element Co, Element O, Element Zn]",ZnCoO2,199.09138688136485,5.215902703106732,Triclinic,6,2.0,9668.95,O,-,-,4,0,0,4
+1,64,"[Element Ba, Element Cl, Element O, Element Te, Element Zn]",BaZnTeCl2O3,1420.1090976526696,4.202386375359226,Orthorhombic,4,2.0,9664.077,Cl,O,-,2,2,0,4
+1,5,"[Element H, Element O, Element Zn]",Zn(HO)2,42.08832579467129,3.9226293520415996,Monoclinic,3,2.0,9677.542,O,-,-,6,0,0,6
+1,28,"[Element Na, Element O, Element P, Element Zn]",NaZnPO4,399.1126715000554,3.051702273605441,Monoclinic,3,2.0,9663.99,O,-,-,4,0,0,4
+1,2,"[Element O, Element Zn]",ZnO,19.50542849712628,6.930472017256744,Cubic,1,2.0,9668.811,O,Zn,-,8,6,0,14
+1,40,"[Element H, Element Li, Element O, Element P, Element Zn]",LiZnPH2O5,446.8942278040948,2.754644928807771,Orthorhombic,4,2.0,9665.213,O,-,-,4,0,0,4
+1,42,"[Element Ba, Element O, Element Si, Element Zn]",BaZnSiO4,653.745726911439,4.493110441582892,Hexagonal,2,2.0,9664.988,O,-,-,4,0,0,4
+1,88,"[Element O, Element P, Element Zn]",Zn2P2O7,1131.3842442639298,3.578399320654023,Orthorhombic,4,2.0,9667.573,O,-,-,5,0,0,5
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,198.55959217294347,6.1354869190093595,Monoclinic,3,2.0,9664.139,O,Zn,-,3,1,0,4
+1,40,"[Element O, Element P, Element V, Element Zn]",V3ZnP3O13,488.808367945029,3.5272057283940783,Monoclinic,3,2.0,9665.587,O,-,-,7,0,0,7
+1,10,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,114.91876256802355,6.852042776892203,Triclinic,6,2.0,9666.121,O,-,-,4,0,0,4
+1,44,"[Element O, Element Sr, Element V, Element Zn]",SrV2ZnO7,621.1246555337157,3.923622870562026,Monoclinic,3,2.0,9671.479,O,-,-,5,0,0,5
+1,44,"[Element O, Element P, Element Sn, Element Zn]",ZnSn3(P2O7)2,647.3135876883385,3.947580743497236,Monoclinic,3,2.0,9663.748,O,-,-,2,0,0,2
+1,14,"[Element O, Element Sn, Element Zn]",Zn2SnO4,169.72326551648118,6.134945580443929,Orthorhombic,4,2.0,9667.737,O,-,-,5,0,0,5
+1,23,"[Element Ba, Element O, Element Tl, Element W, Element Zn]",Ba2Tl2Zn3(WO3)4,340.32457459815197,8.816861706324481,Tetragonal,5,2.0,9664.548,O,W,-,8,5,0,13
+1,102,"[Element Ba, Element Er, Element O, Element Pt, Element Zn]",Ba17Er16Zn8Pt4O57,1522.170402075599,7.883161257034027,Tetragonal,5,NAN,9672.836,O,-,-,5,0,0,5
+1,5,"[Element O, Element W, Element Zn]",ZnWO3,65.05448863678916,7.587340865693257,Orthorhombic,4,2.0,9665.776,O,-,-,2,0,0,2
+1,14,"[Element Ba, Element Bi, Element O, Element Zn]",BaZn(BiO2)4,252.75360728874136,7.664668137900026,Trigonal,7,2.0,9667.328,O,-,-,6,0,0,6
+1,24,"[Element Ba, Element Ge, Element O, Element S, Element Zn]",Ba2ZnGe2S6O,620.0752685157245,3.7155803238867056,Tetragonal,5,2.0,9665.172,S,-,-,4,0,0,4
+1,28,"[Element Mn, Element O, Element Zn]",Mn2ZnO4,328.07206098773725,4.844524061511833,Monoclinic,3,2.0,9668.923,O,-,-,5,0,0,5
+1,20,"[Element O, Element Si, Element W, Element Zn]",ZnSi2WO6,247.35340161804982,5.389597225151848,Monoclinic,3,2.0,9663.846,O,-,-,6,0,0,6
+1,14,"[Element O, Element W, Element Zn]",ZnW4O9,186.24410785299972,8.423444153246406,Tetragonal,5,2.0,9664.059,O,-,-,12,0,0,12
+1,7,"[Element Ca, Element O, Element P, Element Zn]",CaZn2(PO)2,122.5214159560117,3.5894216126609364,Trigonal,7,2.0,9665.022,O,-,-,1,0,0,1
+1,80,"[Element Co, Element O, Element Si, Element Zn]",Zn3Co2(SiO4)3,783.8479950531238,5.00243460421012,Cubic,1,2.0,9666.702,O,-,-,8,0,0,8
+1,16,"[Element Cr, Element O, Element Zn]",ZnCrO2,185.65028833127087,5.3453406597584605,Triclinic,6,2.0,9667.453,O,-,-,3,0,0,3
+1,16,"[Element Fe, Element O, Element Zn]",ZnFe2O5,196.99106854153106,4.334388845023541,Orthorhombic,4,2.0,9669.439,O,-,-,8,0,0,8
+1,27,"[Element H, Element O, Element S, Element Zn]",ZnH12(SO6)2,299.79481434934365,1.8479332017252283,Triclinic,6,2.0,9668.982,O,-,-,6,0,0,6
+1,24,"[Element Co, Element O, Element Zn]",Zn3Co2O7,230.91188027663506,6.128205561960166,Orthorhombic,4,2.0,9670.802,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnW2O5,238.34974841432367,7.14915236576133,Orthorhombic,4,2.0,9669.97,O,-,-,4,0,0,4
+1,52,"[Element As, Element O, Element Ti, Element Zn]",Ti3Zn3(AsO4)4,673.2734156748049,4.4172861909807875,Monoclinic,3,2.0,9664.198,O,-,-,4,0,0,4
+1,28,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,386.0918595557137,6.310725027058649,Orthorhombic,4,2.0,9664.37,O,Sn,-,8,1,0,9
+1,26,"[Element Nb, Element O, Element Zn]",Nb2Zn3O8,305.3580442820992,5.547146890045022,Monoclinic,3,2.0,9665.624,O,-,-,5,0,0,5
+1,24,"[Element O, Element W, Element Zn]",Zn3W2O7,277.2715349859666,8.09576783063662,Orthorhombic,4,2.0,9666.412,O,-,-,4,0,0,4
+1,28,"[Element As, Element O, Element Tl, Element Zn]",TlZnAsO4,479.27972274940703,5.664177887215234,Monoclinic,3,2.0,9664.982,O,-,-,4,0,0,4
+1,44,"[Element Cu, Element F, Element K, Element O, Element P, Element Zn]",K2ZnCu3P3O12F,584.4031092433465,3.6265484661857545,Monoclinic,3,2.0,9664.167,O,-,-,4,0,0,4
+1,18,"[Element Cl, Element Cu, Element H, Element O, Element Zn]",ZnCu3H6(ClO3)2,200.9806614706998,3.5444521266455014,Trigonal,7,2.0,9670.276,O,-,-,6,0,0,6
+1,22,"[Element O, Element Pt, Element Sr, Element Zn]",Sr3ZnPtO6,310.23007879048913,6.630265267057695,Trigonal,7,2.0,9669.072,O,-,-,6,0,0,6
+1,20,"[Element Mo, Element O, Element Ta, Element Zn]",TaZn2MoO6,228.75701484302044,7.3127138947059995,Monoclinic,3,2.0,9666.489,O,-,-,4,0,0,4
+1,14,"[Element O, Element Sn, Element Zn]",Zn(SnO2)2,189.766005484027,6.419799886252394,Orthorhombic,4,2.0,9669.29,O,-,-,2,0,0,2
+1,20,"[Element Ge, Element O, Element V, Element Zn]",VZn(GeO3)2,244.79171535263035,4.851907903408503,Monoclinic,3,2.0,9664.523,O,-,-,4,0,0,4
+1,10,"[Element Ba, Element O, Element Re, Element Zn]",Ba2ZnReO6,138.45715172065806,7.462941694517654,Cubic,1,2.0,9667.643,O,-,-,6,0,0,6
+1,38,"[Element Bi, Element O, Element P, Element Zn]",Zn3Bi2(PO6)2,502.2027008174779,5.740951369944488,Monoclinic,3,2.0,9665.7,O,-,-,5,0,0,5
+1,66,"[Element Bi, Element Cu, Element O, Element Zn]",ZnCuBi2O7,1014.4191761936238,6.471575822222165,Monoclinic,3,2.0,9668.732,O,-,-,5,0,0,5
+1,20,"[Element Cu, Element O, Element Si, Element Zn]",ZnCu(SiO3)2,232.46061603876436,4.01629082958854,Monoclinic,3,2.0,9673.983,O,-,-,4,0,0,4
+1,24,"[Element Fe, Element O, Element Zn]",Zn3Fe2O7,250.63828231058056,5.564047051133788,Orthorhombic,4,2.0,9670.633,O,-,-,5,0,0,5
+1,20,"[Element La, Element O, Element Rh, Element Zn]",La2ZnRhO6,257.61783435880284,6.988759004183228,Monoclinic,3,2.0,9670.474,O,-,-,6,0,0,6
+1,56,"[Element Ba, Element Eu, Element O, Element Pt, Element Zn]",Ba2Eu2ZnPtO8,839.7368006462904,7.649338794177814,Orthorhombic,4,2.0,9672.634,O,-,-,5,0,0,5
+1,28,"[Element Fe, Element O, Element Zn]",Zn(FeO2)2,293.33109503383827,5.459364158649189,Monoclinic,3,2.0,9670.046,O,-,-,6,0,0,6
+1,80,"[Element Ni, Element O, Element Si, Element Zn]",Zn3Si3(NiO6)2,807.7842454618998,4.850259020564782,Cubic,1,2.0,9667.693,O,-,-,8,0,0,8
+1,56,"[Element Cr, Element O, Element P, Element Zn]",ZnCr2P2O9,649.0074459838589,3.84138731696998,Orthorhombic,4,2.0,9665.053,O,-,-,6,0,0,6
+1,80,"[Element Mn, Element O, Element Si, Element Zn]",Mn2Zn3(SiO4)3,836.3394033110192,4.6250069041536666,Cubic,1,2.0,9667.165,O,-,-,8,0,0,8
+1,45,"[Element Na, Element O, Element Si, Element Zn]",Na2Zn3(SiO4)2,590.551996908397,3.5966786075253028,Triclinic,6,2.0,9666.533,O,-,-,4,0,0,4
+1,5,"[Element Be, Element O, Element Zn]",BeZnO3,42.9918209999462,4.728391548334918,Cubic,1,NAN,9670.244,O,-,-,12,0,0,12
+1,20,"[Element Mn, Element O, Element Si, Element Zn]",MnZn(SiO3)2,240.29946105656057,3.766307863503035,Monoclinic,3,2.0,9674.418,O,-,-,4,0,0,4
+1,32,"[Element Ga, Element N, Element O, Element Zn]",ZnGa3N3O,385.06502223513434,5.73712076106618,Triclinic,6,2.0,9670.91,N,O,-,2,2,0,4
+1,30,"[Element O, Element P, Element V, Element Zn]",V2Zn(PO5)2,329.36786007243006,3.9247148288035336,Orthorhombic,4,2.0,9664.73,O,-,-,4,0,0,4
+1,16,"[Element O, Element W, Element Zn]",ZnWO2,234.20065761933802,7.976458419227765,Triclinic,6,2.0,9664.677,O,-,-,2,0,0,2
+1,18,"[Element Mo, Element O, Element Te, Element Zn]",ZnTeMoO6,251.3631267308464,5.086003450719914,Orthorhombic,4,2.0,9667.241,O,-,-,6,0,0,6
+1,42,"[Element Mo, Element O, Element Zn]",Zn(MoO2)2,541.6584933889052,5.909726687650885,Triclinic,6,2.0,9668.218,O,-,-,6,0,0,6
+1,32,"[Element As, Element O, Element Ti, Element Zn]",TiZnAsO5,421.25803441723025,4.228739321098331,Orthorhombic,4,2.0,9664.065,O,-,-,3,0,0,3
+1,42,"[Element Ni, Element O, Element Zn]",Zn(NiO2)2,431.61459529282195,5.6968890299408015,Monoclinic,3,2.0,9672.961,O,-,-,6,0,0,6
+1,42,"[Element O, Element Ti, Element Zn]",Ti2ZnO4,468.9412451978199,4.7833893002691505,Trigonal,7,2.0,9676.884,O,-,-,5,0,0,5
+1,56,"[Element O, Element W, Element Zn]",Zn(WO2)2,721.745883998725,9.14927787035163,Monoclinic,3,2.0,9669.113,O,-,-,5,0,0,5
+1,26,"[Element O, Element V, Element Zn]",V3Zn2O8,289.81906645783374,4.7170152022089775,Hexagonal,2,2.0,9670.603,O,-,-,5,0,0,5
+1,44,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,503.868787748585,3.992900567625853,Monoclinic,3,2.0,9666.83,O,-,-,5,0,0,5
+1,16,"[Element O, Element Sn, Element Zn]",ZnSnO2,257.8764709683131,5.566572906653571,Triclinic,6,2.0,9668.413,O,-,-,4,0,0,4
+1,28,"[Element O, Element V, Element Zn]",V2ZnO4,319.7437751074892,4.804664737781012,Orthorhombic,4,2.0,9672.517,O,-,-,6,0,0,6
+1,20,"[Element Cr, Element O, Element Sb, Element Zn]",Zn2CrSbO6,213.9635490517634,6.217535243457748,Monoclinic,3,2.0,9668.179,O,-,-,4,0,0,4
+1,30,"[Element O, Element Ta, Element Zn]",Ta2Zn4O9,341.6390074461396,7.461135626967446,Trigonal,7,2.0,9668.365,O,-,-,6,0,0,6
+1,96,"[Element H, Element O, Element Se, Element Zn]",ZnH12SeO10,923.4690939040246,2.276162058655165,Tetragonal,5,2.0,9670.137,O,-,-,6,0,0,6
+1,60,"[Element Ca, Element Na, Element O, Element Sc, Element Si, Element Zn]",NaCa2ScZn2(SiO3)6,696.1394425209475,3.5084831289355884,Monoclinic,3,2.0,9666.185,O,-,-,6,0,0,6
+1,20,"[Element O, Element Re, Element Sr, Element Zn]",Sr2ZnReO6,257.8567723913731,6.7341013719036455,Monoclinic,3,2.0,9671.746,O,-,-,6,0,0,6
+1,20,"[Element O, Element W, Element Zn]",ZnWO3,227.89247908810515,8.663569453555539,Orthorhombic,4,2.0,9666.392,O,-,-,4,0,0,4
+1,36,"[Element Ag, Element O, Element P, Element Ti, Element Zn]",TiZnAg(PO4)3,463.08062581809185,3.629301221289206,Trigonal,7,2.0,9667.962,O,-,-,6,0,0,6
+1,28,"[Element O, Element Sb, Element Zn]",Zn(SbO2)2,457.02040973348744,5.419969569547989,Tetragonal,5,2.0,9667.652,O,-,-,6,0,0,6
+1,2,[Element Zn],Zn,31.11493466304292,6.981483280848256,Hexagonal,2,NAN,9666.387,Zn,-,-,12,0,0,12
