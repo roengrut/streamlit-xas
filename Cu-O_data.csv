@@ -1,0 +1,1574 @@
+,nsites,elements,formula_pretty,volume,density,symmetry,symmetry_class,Oxidation,e0
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,20,"[Element Cu, Element Li, Element Mn, Element O, Element V]",Li2MnV4CuO12,260.6926025122309,3.3640077035761067,Monoclinic,3,2.0,8996.386
+1,12,"[Element Cu, Element Na, Element O]",Na3CuO2,179.9185444834026,3.036730865997984,Trigonal,7,1.0,8988.802
+1,16,"[Element Cu, Element Fe, Element O, Element S, Element Sr]",Sr2FeCuSO3,245.50453644820976,5.068699390757063,Tetragonal,5,1.0,8995.876
+1,38,"[Element Cu, Element O, Element P]",Cu4(PO4)3,461.231955923975,3.881749331088552,Monoclinic,3,2.25,8999.463
+1,49,"[Element Cu, Element Li, Element Nd, Element O]",LiNd14(Cu3O14)2,681.0108064727882,6.962908140654887,Monoclinic,3,2.0,8998.727
+1,40,"[Element Ba, Element Cu, Element O, Element Se]",BaCu(SeO3)2,656.8146235188938,4.5991397063129,Monoclinic,3,2.0,8987.508
+1,26,"[Element C, Element Cu, Element Na, Element O, Element P]",Na3CuPCO7,311.797029299838,3.062233265136593,Monoclinic,3,2.0,8996.362
+1,3,"[Element Cu, Element O]",CuO2,87.80546064954282,1.806902091229084,Orthorhombic,4,2.0,9003.105
+1,44,"[Element Cl, Element Cu, Element Er, Element O, Element Te]",ErCuTe2ClO6,741.5194408813159,5.530844264318521,Monoclinic,3,2.0,8996.038
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,75.76152725829627,4.492561808196553,Orthorhombic,4,1.0,8992.689
+1,63,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO7)2,965.0632022202736,3.0709921490137315,Monoclinic,3,3.0,9003.42
+1,7,"[Element Br, Element Ca, Element Cu, Element O]",Ca2Cu(BrO)2,133.5555765435022,4.171487818646666,Tetragonal,5,2.0,9000.816
+1,52,"[Element Cu, Element O, Element W, Element Zn]",ZnCu2(WO4)2,734.4972880141015,6.223268432146523,Monoclinic,3,1.0,8987.247
+1,54,"[Element C, Element Cu, Element Li, Element O, Element S]",Li4Cu2C4SO16,581.0835521391793,2.8059600480885822,Orthorhombic,4,3.0,8998.101
+1,8,"[Element Cu, Element O, Element Tl]",TlCuO2,160.58492903414233,6.202852562050005,Monoclinic,3,3.0,9001.951
+1,78,"[Element B, Element Cu, Element O, Element Ti]",Ti2Cu9(B3O11)2,905.5566482648275,3.9773456928661997,Triclinic,6,2.0,8993.434
+1,32,"[Element Cu, Element Li, Element O, Element P]",Li2CuPO4,338.0407119017248,3.387472112001924,Triclinic,6,1.0,8987.684
+1,66,"[Element Cu, Element O, Element Sb, Element Zn]",ZnCuSb2O7,951.1962873139615,5.074553094052371,Monoclinic,3,2.0,8999.596
+1,44,"[Element Br, Element Cu, Element Er, Element O, Element Te]",ErCuTe2BrO6,761.2843594458672,5.775081249728321,Monoclinic,3,2.0,8996.041
+1,36,"[Element Cu, Element O, Element P, Element Ti, Element Zn]",TiZnCu(PO4)3,440.1408317031411,3.4840248472876483,Trigonal,7,3.0,8999.135
+1,52,"[Element Cu, Element Mg, Element O, Element W]",MgCu2(WO4)2,726.1389563801972,5.918914777166144,Monoclinic,3,1.0,8987.293
+1,14,"[Element Ca, Element Cl, Element Cu, Element O, Element Sm]",CaSmCuClO3,208.71400465190888,5.369302591886071,Tetragonal,5,2.0,8999.921
+1,34,"[Element B, Element Cu, Element O, Element Tb]",TbCu(BO2)5,349.2338605703909,4.151138619523193,Orthorhombic,4,2.0,8992.189
+1,4,"[Element Cu, Element Li, Element O]",LiCuO2,35.67895305937966,4.769805651595284,Trigonal,7,1.0,9000.445
+1,68,"[Element Cu, Element K, Element O, Element Si]",K2Cu(Si2O5)2,999.8301531178403,2.7508419456419575,Monoclinic,3,2.0,8992.017
+1,22,"[Element Cu, Element O, Element P, Element Zn]",ZnCuP2O7,248.56723966322545,4.046989400807849,Triclinic,6,2.0,8995.141
+1,48,"[Element Bi, Element Cu, Element O]",CuBiO4,674.637223852951,6.626509420343074,Monoclinic,3,3.0,9000.68
+1,28,"[Element Ca, Element Cu, Element O]",Ca(CuO2)2,336.1061127372066,4.568352791408316,Orthorhombic,4,2.0,9003.004
+1,56,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,609.3764417487015,3.606966738747089,Orthorhombic,4,2.0,8989.477
+1,43,"[Element Cu, Element Nd, Element O]",Nd12Cu6O25,561.0931093725108,7.434680604234797,Monoclinic,3,2.3333333333333335,8996.401
+1,68,"[Element Cu, Element Li, Element O, Element P]",LiCuP4O11,889.2023257992792,2.7666274503214456,Triclinic,6,1.0,8987.434
+1,42,"[Element Cu, Element Li, Element O, Element P]",LiCuPO4,508.7594319173273,3.240235589068339,Trigonal,7,2.0,8997.619
+1,36,"[Element Cu, Element Fe, Element O, Element P, Element Ti]",TiFe3Cu2(PO4)6,447.1889239430623,3.3877104341172877,Trigonal,7,2.0,8999.222
+1,14,"[Element Cu, Element Mn, Element O]",Mn3Cu3O8,150.48583458541103,5.334609571479791,Trigonal,7,1.3333333333333333,9001.281
+1,36,"[Element Cu, Element Mg, Element O, Element P, Element Ti]",MgTiCu(PO4)3,439.9188380061719,3.175476655854587,Trigonal,7,3.0,8999.198
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,298.0784905733796,4.799690734036833,Orthorhombic,4,2.0,8999.201
+1,31,"[Element Cu, Element H, Element N, Element O]",CuH12(N5O4)2,306.3962580859462,1.8627285146666666,Triclinic,6,2.0,8998.88
+1,18,"[Element Cu, Element H, Element O, Element Se]",CuH2SeO5,206.8202610795223,3.6052789365131415,Triclinic,6,2.0,8986.842
+1,30,"[Element Ba, Element Cu, Element O, Element Sb]",Ba3CuSb2O9,437.44405458316396,6.552217386105129,Hexagonal,2,2.0,8997.021
+1,5,"[Element Cu, Element O, Element Sc]",ScCuO3,51.848919296289374,5.0121497085662625,Cubic,1,2.0,9000.0
+1,11,"[Element Ba, Element Cl, Element Cu, Element O]",Ba2Cu3(ClO2)2,222.7407111756179,4.474477163047332,Tetragonal,5,2.0,8998.514
+1,6,"[Element Cu, Element O]",Cu2O,78.83288414788541,6.028166000942374,Cubic,1,1.0,8987.351
+1,36,"[Element Ba, Element Ca, Element Cu, Element O, Element Tl]",Ba4Ca4Tl3Cu6O19,516.7869653777112,6.452213202552055,Tetragonal,5,2.0,9002.149
+1,96,"[Element Cu, Element Mo, Element Nd, Element O]",NdCu(MoO4)2,1579.026908849954,4.439216779197212,Orthorhombic,4,2.0,8987.478
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,147.67110535863796,5.7685752127463115,Trigonal,7,2.0,9000.966
+1,28,"[Element Cu, Element O, Element Se]",Cu2SeO4,366.33595344205827,4.896357011349799,Monoclinic,3,2.0,8997.951
+1,20,"[Element Ca, Element Cu, Element O, Element Pr]",CaPr(CuO3)2,226.81420173392848,5.916567216218911,Orthorhombic,4,3.0,9000.88
+1,28,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,269.5520552715499,6.320499965415011,Triclinic,6,2.0,8999.095
+1,76,"[Element C, Element Cu, Element H, Element O]",CuH6(CO2)4,848.3720683790594,1.9231228508432272,Orthorhombic,4,2.0,8997.284
+1,28,"[Element Cr, Element Cu, Element Li, Element Mn, Element O]",Li4Mn3Cr2Cu3O16,279.72342577161413,4.411895466179972,Monoclinic,3,2.0,9002.206
+1,14,"[Element C, Element Cu, Element Fe, Element N, Element O]",FeCuC5N6O,281.7526283714178,1.6471692271046923,Tetragonal,5,2.0,9000.631
+1,9,"[Element Cu, Element O]",Cu8O,106.07991223247113,8.208269790939399,Orthorhombic,4,NAN,8988.131
+1,50,"[Element Cu, Element In, Element O, Element P]",In2Cu3(PO4)4,617.0490066345856,4.306614182479996,Monoclinic,3,2.0,8987.324
+1,48,"[Element Cu, Element O, Element V]",VCuO4,637.0399605349947,3.7219828578338947,Monoclinic,3,3.0,9001.298
+1,40,"[Element B, Element Cu, Element O, Element Pb]",Cu3B4Pb2O11,486.8721840629429,5.6225905944738255,Monoclinic,3,2.0,9004.267
+1,34,"[Element B, Element Cu, Element O, Element Tm]",Tm2Cu(B2O5)2,309.25251080607904,6.493392382964865,Monoclinic,3,2.0,8987.506
+1,20,"[Element Cu, Element Mg, Element O, Element W]",MgCu3(WO3)4,228.98587873773138,8.283597143999256,Triclinic,6,2.0,8988.924
+1,20,"[Element Ca, Element Cu, Element O, Element W]",Ca2CuWO6,240.8787748582803,5.839468824539811,Monoclinic,3,2.0,8997.951
+1,46,"[Element Cu, Element Mg, Element O, Element Si]",Mg3Cu2(Si2O7)2,533.5968585855345,3.338154978640153,Monoclinic,3,2.0,9000.029
+1,20,"[Element Ca, Element Cu, Element O, Element V]",CaV4(CuO4)3,200.93602194334304,5.177199453413665,Cubic,1,2.0,8994.006
+1,22,"[Element Cu, Element Ir, Element O, Element Sr]",Sr3CuIrO6,313.04398523585013,6.52048629953677,Monoclinic,3,2.0,8996.669
+1,9,"[Element Cu, Element O, Element Sr, Element Tl]",Sr2TlCuO5,127.35274737084663,6.821510202937497,Tetragonal,5,3.0,8997.17
+1,11,"[Element Ba, Element Cu, Element O, Element Tl]",Ba2Tl2CuO6,182.97236396168884,7.65018793258094,Tetragonal,5,2.0,9001.182
+1,28,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,283.39081642957274,5.048450712856055,Orthorhombic,4,3.0,8991.78
+1,56,"[Element Al, Element Cu, Element O]",Al2CuO4,541.5952153628147,4.452017521009608,Trigonal,7,2.0,8999.203
+1,19,"[Element Cu, Element Ge, Element Ho, Element O]",Ho2Cu(GeO3)4,258.0054352270704,5.637729477661491,Triclinic,6,2.0,8987.339
+1,14,"[Element Cu, Element O, Element Zn]",Zn(CuO2)2,150.58450100438154,5.656969159036505,Tetragonal,5,1.0,9002.302
+1,9,"[Element Cu, Element Li, Element O]",Li3(CuO2)2,100.0467503837896,3.517247127148269,Monoclinic,3,1.5,9030.97
+1,66,"[Element Cu, Element Mo, Element O, Element Zn]",ZnCuMo2O7,956.6839616009338,4.507648105096426,Monoclinic,3,2.0,8987.244
+1,60,"[Element Bi, Element Cl, Element Cu, Element O, Element Te]",Cu3BiTe2ClO8,932.35912038563,5.829357399822805,Orthorhombic,4,2.0,8997.866
+1,20,"[Element Cu, Element Mg, Element O, Element Pr]",PrMg(CuO3)2,215.32516640353865,5.988979955920243,Orthorhombic,4,3.0,9000.36
+1,24,"[Element Cu, Element Li, Element O, Element Sn]",Li5Cu5(SnO6)2,244.40507742303026,5.312036922174736,Monoclinic,3,1.8,8999.005
+1,20,"[Element Cu, Element O, Element W, Element Zn]",Zn2CuWO6,220.8285783674962,7.131579461361215,Monoclinic,3,2.0,8989.733
+1,8,"[Element Cu, Element Li, Element O]",LiCuO2,88.51529442739923,3.8452489605672833,Orthorhombic,4,1.0,8997.661
+1,56,"[Element Cu, Element Ni, Element O, Element P, Element Zn]",ZnCuNiP2O9,629.7164954689172,4.151534448144798,Orthorhombic,4,2.0,8999.757
+1,8,"[Element Cu, Element F, Element O]",CuO2F,104.65642200532402,3.6348168040863653,Orthorhombic,4,3.0,8997.818
+1,96,"[Element C, Element Cl, Element Cu, Element H, Element N, Element O]",CuH14C3NCl3O2,1031.8727408991733,1.7125858168665742,Monoclinic,3,2.0,8990.007
+1,14,"[Element Cu, Element Mg, Element O]",Mg(CuO2)2,163.81073248591366,4.366882888286219,Tetragonal,5,3.0,8991.297
+1,35,"[Element Cu, Element O, Element W, Element Y]",Y2Cu3(WO4)6,477.7840964425084,6.448706008314066,Triclinic,6,2.0,8987.23
+1,68,"[Element Cu, Element Li, Element O, Element Si]",Li2Cu(Si2O5)2,853.3017401042573,2.722585690335508,Monoclinic,3,2.0,8998.673
+1,72,"[Element C, Element Cu, Element H, Element O]",CuH2(CO2)2,955.7182706307211,2.1347466497150998,Orthorhombic,4,2.0,8987.159
+1,62,"[Element Cu, Element H, Element K, Element O, Element S]",K2CuH12(SO7)2,675.1753152020409,2.1739271389638644,Monoclinic,3,2.0,8992.594
+1,58,"[Element C, Element Cu, Element Na, Element O, Element S]",Na6Cu2C4SO16,680.1895024463756,2.935058135756217,Cubic,1,2.0,8992.241
+1,68,"[Element Cu, Element O, Element S]",Cu2(SO4)3,838.177880965106,3.2908924756132993,Monoclinic,3,3.0,8989.243
+1,15,"[Element Ba, Element Cu, Element Er, Element O]",Ba2Er(CuO2)4,206.97447595891293,6.611623314031919,Orthorhombic,4,2.25,8999.525
+1,20,"[Element Cu, Element Mg, Element O, Element Si]",MgCu(SiO3)2,227.2604185093545,3.5075172890428377,Monoclinic,3,2.0,8993.261
+1,3,"[Element Cu, Element O]",CuO2,57.297760560678384,2.7689715778852344,Orthorhombic,4,2.0,9003.757
+1,52,"[Element Cu, Element Mg, Element O, Element Ti]",MgTi2(CuO4)2,651.5474338901653,3.82419862392923,Monoclinic,3,3.0,9002.233
+1,8,"[Element Cu, Element La, Element O, Element S]",LaCuSO,135.84244400349533,6.124615694692021,Tetragonal,5,1.0,8993.43
+1,22,"[Element Cu, Element O]",Cu9O13,232.00063240655297,5.582160182945553,Monoclinic,3,2.0,8998.207
+1,24,"[Element Cu, Element Mo, Element O, Element Sb]",CuSb(MoO4)2,304.41529068025943,5.511372986550486,Monoclinic,3,1.0,8995.614
+1,24,"[Element Cr, Element Cu, Element O, Element Sr]",Sr2CrCu2O7,339.46014516782446,4.562238320214163,Orthorhombic,4,2.0,9001.352
+1,36,"[Element Cu, Element Na, Element O, Element P]",NaCu(PO3)4,494.6983468059241,2.701606469583036,Monoclinic,3,3.0,8990.72
+1,48,"[Element Ba, Element Cu, Element Ge, Element O]",BaCu2Ge2O7,690.0236974958973,5.021825108376905,Orthorhombic,4,2.0,8997.234
+1,28,"[Element Cu, Element Nb, Element O, Element Sm, Element Sr]",Sr2SmNb(CuO4)2,360.59668708123195,6.203764353671897,Tetragonal,5,2.0,8996.972
+1,48,"[Element Cu, Element O, Element Re]",CuReO4,738.3698979217389,5.644814303398323,Monoclinic,3,2.0,8994.559
+1,60,"[Element As, Element Cu, Element O]",Cu4As2O9,764.0947269710997,4.763867942281932,Orthorhombic,4,2.0,8987.257
+1,36,"[Element Ba, Element Cu, Element Lu, Element O]",BaLu2CuO5,480.62802472077027,8.71754966179269,Orthorhombic,4,2.0,8998.282
+1,1,[Element Cu],Cu,11.874703018905636,8.886168661889169,Tetragonal,5,0,8988.414
+1,2,[Element Cu],Cu,23.617387825060305,8.935841221514982,Hexagonal,2,0,8988.333
+1,1,[Element Cu],Cu,11.824206276697762,8.92411814937565,Cubic,1,0,8988.328
+1,1,[Element Cu],Cu,11.852765009390795,8.902615866613178,Cubic,1,0,8988.419
+1,4,[Element Cu],Cu,47.26415794716265,8.930286155001694,Hexagonal,2,0,8988.53
